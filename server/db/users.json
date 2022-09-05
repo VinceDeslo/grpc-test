@@ -1,0 +1,20 @@
+[
+    {
+        "FirstName": "Tony",
+        "LastName": "Manceti",
+        "Age": 47,
+        "Permissions": "admin"
+    },
+    {
+        "FirstName": "Richard",
+        "LastName": "Newcastle",
+        "Age": 64,
+        "Permissions": "restricted"
+    },
+    {
+        "FirstName": "Henrietta",
+        "LastName": "Stevens",
+        "Age": 23,
+        "Permissions": "restricted"
+    }
+]
